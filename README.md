@@ -2,9 +2,9 @@
 
 ## Description
 
-MarkData is a program for desktop platforms to perform base data analysis (in the following photo is applied <br>
-for school marks tracking) like mean value, frequency and median values. This project it's <br>
-written in Dart with the Flutter framework to ensure support on:
+MarkData è un software per mantenere traccia e eseguire analisi di base su voti come la <br>
+media, voto più frequente e grafici per mantenere graficamente sotto controllo la situazione <br>
+Il programma è disponibile su Desktop sui seguenti sistemi operativi:
 *  macOS
 *  Windows
 *  GNU/Linux Distros
